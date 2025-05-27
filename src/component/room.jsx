@@ -48,14 +48,14 @@ function Room() {
                 <div className="d-flex justify-content-between">
                   <a
                     className="btn btn-sm btn-primary rounded py-2 px-4"
-                    href="tel:+91 8905185569"
+                    href="tel:+918905185569"
                   >
                     Call Now
                   </a>
 
                   <a
                     className="btn btn-sm btn-dark rounded py-2 px-4"
-                    href="https://wa.me/8905185569" // Replace with your actual WhatsApp number (no + or spaces)
+                    href="https://wa.me/+918905185569?text=Hello%2C%20I%20would%20like%20to%20inquire%20about%20booking%20a%20room%20at%20your%20restaurant.%20Could%20you%20please%20provide%20more%20details%20and%20availability%3F%20Thank%20you%21"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -98,14 +98,14 @@ function Room() {
                 <div className="d-flex justify-content-between">
                   <a
                     className="btn btn-sm btn-primary rounded py-2 px-4"
-                    href="tel:+918308655001"
+                    href="tel:+918905185569"
                   >
                     Call Now
                   </a>
 
                   <a
                     className="btn btn-sm btn-dark rounded py-2 px-4"
-                    href="https://wa.me/8905185569"
+                    href="https://wa.me/+918905185569?text=Hello%2C%20I%20would%20like%20to%20inquire%20about%20booking%20a%20room%20at%20your%20restaurant.%20Could%20you%20please%20provide%20more%20details%20and%20availability%3F%20Thank%20you%21"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -149,14 +149,14 @@ function Room() {
                 <div className="d-flex justify-content-between">
                   <a
                     className="btn btn-sm btn-primary rounded py-2 px-4"
-                    href="tel:+918308655001"
+                    href="tel:+918905185569"
                   >
                     Call Now
                   </a>
 
                   <a
                     className="btn btn-sm btn-dark rounded py-2 px-4"
-                    href="https://wa.me/8905185569" 
+                    href="https://wa.me/+918905185569?text=Hello%2C%20I%20would%20like%20to%20inquire%20about%20booking%20a%20room%20at%20your%20restaurant.%20Could%20you%20please%20provide%20more%20details%20and%20availability%3F%20Thank%20you%21"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -166,9 +166,7 @@ function Room() {
               </div>
             </div>
           </div>
-          
-        
-    
+
           <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
             <div className="room-item shadow rounded overflow-hidden">
               <div className="position-relative  hover-zoom">
@@ -203,14 +201,14 @@ function Room() {
                 <div className="d-flex justify-content-between">
                   <a
                     className="btn btn-sm btn-primary rounded py-2 px-4"
-                    href="tel:+918308655001"
+                    href="tel:+918905185569"
                   >
                     Call Now
                   </a>
 
                   <a
                     className="btn btn-sm btn-dark rounded py-2 px-4"
-                    href="https://wa.me/8905185569"
+                    href="https://wa.me/+918905185569?text=Hello%2C%20I%20would%20like%20to%20inquire%20about%20booking%20a%20room%20at%20your%20restaurant.%20Could%20you%20please%20provide%20more%20details%20and%20availability%3F%20Thank%20you%21"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -253,14 +251,14 @@ function Room() {
                 <div className="d-flex justify-content-between">
                   <a
                     className="btn btn-sm btn-primary rounded py-2 px-4"
-                    href="tel:+918308655001"
+                    href="tel:+918905185569"
                   >
                     Call Now
                   </a>
 
                   <a
                     className="btn btn-sm btn-dark rounded py-2 px-4"
-                    href="https://wa.me/8905185569"
+                    href="https://wa.me/+918905185569?text=Hello%2C%20I%20would%20like%20to%20inquire%20about%20booking%20a%20room%20at%20your%20restaurant.%20Could%20you%20please%20provide%20more%20details%20and%20availability%3F%20Thank%20you%21"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -304,14 +302,14 @@ function Room() {
                 <div className="d-flex justify-content-between">
                   <a
                     className="btn btn-sm btn-primary rounded py-2 px-4"
-                    href="tel:+918308655001"
+                    href="tel:+918905185569"
                   >
                     Call Now
                   </a>
 
                   <a
                     className="btn btn-sm btn-dark rounded py-2 px-4"
-                    href="https://wa.me/8905185569"
+                    href="https://wa.me/+918905185569?text=Hello%2C%20I%20would%20like%20to%20inquire%20about%20booking%20a%20room%20at%20your%20restaurant.%20Could%20you%20please%20provide%20more%20details%20and%20availability%3F%20Thank%20you%21"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -321,7 +319,7 @@ function Room() {
               </div>
             </div>
           </div>
-       </div>
+        </div>
       </div>
     </>
   );
