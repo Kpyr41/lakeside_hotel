@@ -33,7 +33,7 @@ function Contact() {
                     </div>
                   </div>
                   <h5 className="fw-bold">Call Us</h5>
-                  <p className="mb-0">+91 8905185569</p>
+                  <p className="mb-0">+91 7448756748</p>
                 </div>
               </div>
               <div className="col-6">
@@ -76,7 +76,7 @@ function Contact() {
                   required
                 ></textarea>
               </div>
-              <button type="submit" className="btn btn-primary">
+              <button type="submit" className="btn btn-primary d-flex justify-items-flex-start">
                 Submit
               </button>
             </form>

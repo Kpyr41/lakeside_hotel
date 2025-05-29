@@ -198,7 +198,7 @@ function PrivacyPolicy() {
                   <p>
                     Contact us at{" "}
                     <strong>lakesideinnnainital@redeffmail.com</strong> or call{" "}
-                    <strong>+91 8905185569</strong> to make a request.
+                    <strong>+91 7448756748</strong> to make a request.
                   </p>
                 </div>
               </div>
@@ -311,7 +311,7 @@ function PrivacyPolicy() {
                       <strong>Email:</strong> lakesideinnnainital@redeffmail.com
                     </li>
                     <li>
-                      <strong>Phone:</strong> +91 8905185569
+                      <strong>Phone:</strong> +91 7448756748
                     </li>
                   </ul>
                 </div>

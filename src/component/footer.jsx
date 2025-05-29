@@ -56,11 +56,11 @@ function Footer() {
 
                 <p className="mb-2">
                   <a
-                    href="tel:+918905185569"
+                    href="tel:+917448756748"
                     className="text-decoration-none text-white"
                   >
                     <i className="fa fa-phone-alt me-3"></i>
-                    +91 8905185569
+                    +91 7448756748
                   </a>
                 </p>
 

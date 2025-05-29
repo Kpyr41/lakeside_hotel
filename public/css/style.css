@@ -418,6 +418,8 @@
   background: #ffffff;
 }
 
+
+
 /*** Team ***/
 .team-item,
 .team-item .bg-primary,
@@ -511,4 +513,9 @@
   margin-right: 0;
   padding-right: 0;
   border-right: none;
+}
+/* form */
+.form-label{
+  display: flex !important;
+  justify-items: flex-start !important;
 }

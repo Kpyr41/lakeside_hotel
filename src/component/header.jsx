@@ -38,14 +38,14 @@ function Header() {
             <div className="d-flex flex-column flex-md-row align-items-center justify-content-center justify-content-lg-start text-white gap-2 px-2">
               <small>
                 <a
-                  href="tel:+918905185569"
+                  href="tel:+917448756748"
                   className="text-white text-decoration-none"
                 >
                   <i
                     className="fa fa-phone-alt mr-2"
                     style={{ marginRight: "10px" }}
                   ></i>
-                  +91 8905185569
+                  +91 7448756748
                 </a>
               </small>
               <small className="d-none d-md-inline px-2">|</small>
@@ -84,7 +84,7 @@ function Header() {
             <div className="d-flex justify-content-center justify-content-lg-end mt-2 mt-lg-0">
               <a
                 className="text-white px-2"
-                href="https://wa.me/+918905185569?text=Hello%2C%20I%20would%20like%20to%20inquire%20about%20booking%20a%20room%20at%20your%20restaurant.%20Could%20you%20please%20provide%20more%20details%20and%20availability%3F%20Thank%20you%21"
+                href="https://wa.me/+917448756748?text=Hello%2C%20I%20would%20like%20to%20inquire%20about%20booking%20a%20room%20at%20your%20restaurant.%20Could%20you%20please%20provide%20more%20details%20and%20availability%3F%20Thank%20you%21"
                 target="_blank"
                 rel="noopener noreferrer"
               >
