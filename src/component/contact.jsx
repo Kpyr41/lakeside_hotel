@@ -11,21 +11,22 @@ function Contact() {
           <h1 className="mb-5">Connect with us</h1>
         </div>
         <div className="row g-4 mb-5">
-          <div className="col-md-6">
-            <div className="card text-center p-3 shadow-sm">
-              <div className="mb-3">
-                <div className="rounded-circle border border-2 border-danger d-inline-block p-2">
-                  <i className="bi bi-geo-alt fs-3 text-danger"></i>
+          <div className="col-md-12">
+            <div className="row mt-4 g-3">
+              <div className="col-4">
+                <div className="card  p-3 shadow-sm">
+                  <div className="mb-3">
+                    <div className="rounded-circle border border-2 border-danger d-inline-block p-2">
+                      <i className="bi bi-geo-alt fs-3 text-danger"></i>
+                    </div>
+                  </div>
+                  <h5 className="fw-bold">Address</h5>
+                  <p className="mb-0" style={{ fontSize: "14px" }}>
+                    Mall Rd, Mallital, Nainital, Uttarakhand 263001
+                  </p>
                 </div>
               </div>
-              <h5 className="fw-bold">Address</h5>
-              <p className="mb-0">
-                Mall Rd, Mallital, Nainital, Uttarakhand 263001
-              </p>
-            </div>
-
-            <div className="row mt-4 g-3">
-              <div className="col-6">
+              <div className="col-4">
                 <div className="card text-center p-3 shadow-sm">
                   <div className="mb-3">
                     <div className="rounded-circle border border-2 border-danger d-inline-block p-2">
@@ -36,7 +37,7 @@ function Contact() {
                   <p className="mb-0">+91 7448756748</p>
                 </div>
               </div>
-              <div className="col-6">
+              <div className="col-4">
                 <div className="card text-center p-3 shadow-sm">
                   <div className="mb-3">
                     <div className="rounded-circle border border-2 border-danger d-inline-block p-2">
@@ -51,7 +52,7 @@ function Contact() {
               </div>
             </div>
           </div>
-          <div className="col-md-6">
+          {/* <div className="col-md-6">
             <form>
               <div className="mb-3">
                 <label for="name" className="form-label">
@@ -80,7 +81,7 @@ function Contact() {
                 Submit
               </button>
             </form>
-          </div>
+          </div> */}
         </div>
       </div>
     </>
